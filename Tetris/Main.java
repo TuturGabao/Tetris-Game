@@ -1,4 +1,4 @@
-package Projects.BigProjects.Tetris;
+package Tetris;
 
 import java.io.File;
 import java.io.IOException;

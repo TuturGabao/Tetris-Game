@@ -1,4 +1,4 @@
-package Projects.BigProjects.Tetris;
+package Tetris;
 
 /*  This is a Tetris game
  * 
